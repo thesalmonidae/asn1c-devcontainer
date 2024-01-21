@@ -8,7 +8,7 @@ The `Abstract Syntax Notation One` (`ASN.1`) is a standard interface description
 
 The ASN.1 is joint standard by the `International Telecommunication Union Telecommunication Standardization Sector` (`ITU-T`).
 
-The `ASN.1: Communication between Heterogenous Systems` is a book by Olivier Dubuisson, and it has been translated from French by Philippe Fouquart. It was published in June 5th 2000, but it is very relevant.
+The `ASN.1: Communication between Heterogenous Systems` is a book by Olivier Dubuisson, and it has been translated from French by Philippe Fouquart. It was published in June 5th 2000, but it is still very relevant.
 
 [https://www.oss.com/asn1/resources/books-whitepapers-pubs/dubuisson-asn1-book.PDF](https://www.oss.com/asn1/resources/books-whitepapers-pubs/dubuisson-asn1-book.PDF)
 
