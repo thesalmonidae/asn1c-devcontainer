@@ -4,7 +4,7 @@ The purpose of this devcontainer is to provide an example how one can work with 
 
 ## ASN.1
 
-The `Abstract Syntax Notation One` (`ASN.1`) is a standard interface description language (IDL) for defining data structures that can be serialized and deserialized in a cross-platform way ([https://en.wikipedia.org/wiki/ASN.1](https://en.wikipedia.org/wiki/ASN.1)). It support multiple encodings and in this example XER and DER are used.
+The `Abstract Syntax Notation One` (`ASN.1`) is a standard interface description language (IDL) for defining data structures that can be serialized and deserialized in a cross-platform way ([https://en.wikipedia.org/wiki/ASN.1](https://en.wikipedia.org/wiki/ASN.1)). It supports multiple encodings and in this example XER and DER are used.
 
 The ASN.1 is joint standard by the `International Telecommunication Union Telecommunication Standardization Sector` (`ITU-T`).
 
