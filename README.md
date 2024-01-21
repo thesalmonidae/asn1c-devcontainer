@@ -22,7 +22,7 @@ The `3rd Generation partnership Project` (`3GPP`) is a standards organization re
 
 [https://www.3gpp.org/](https://www.3gpp.org/)
 
-The ASN.1 is widely used in the telecommunication standards. For instance the
+The ASN.1 is widely used in the telecommunication standards.
 
 ### Radio Resource Control
 
