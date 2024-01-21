@@ -1,0 +1,10 @@
+ObservationModule DEFINITIONS ::= BEGIN
+
+Observation ::= SEQUENCE {
+    x               REAL,        -- x-coordinate
+    y               REAL,        -- y-coordinate
+    z               REAL,        -- z-coordinate
+    timestamp       INTEGER      -- timestamp
+}
+
+END

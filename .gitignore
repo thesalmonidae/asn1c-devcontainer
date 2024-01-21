@@ -1,3 +1,9 @@
+*.xml
+*.der
+
+# Build
+.build
+
 # Prerequisites
 *.d
 

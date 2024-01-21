@@ -1,0 +1,25 @@
+{
+    "name": "asn1c-devcontainer",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": "..",
+        "args": {
+            "DEV_USER": "dev",
+            "DOCKER_GROUP_ID": "1001", // TODO map host Docker group id
+            "ROCKYLINUX_TAG": "9.3.20231119-minimal",
+            "ASN1C_VERSION": "0.9.28",
+            "CJSON_VERSION": "1.7.17"
+        }
+    },
+    "remoteUser": "dev",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-vscode.cpptools",
+                "ms-vscode.cpptools-extension-pack",
+                "ms-vscode.cmake-tools",
+                "wildboar.asn1"
+            ]
+        }
+    }
+}
